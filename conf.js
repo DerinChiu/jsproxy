@@ -29,8 +29,8 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        'https://lucky-cloud-1e82.yorkbbs.workers.dev:8443': 2,
-        'https://lucky-cloud-1e82.yorkbbs.workers.dev:8080': 1
+        'lucky-cloud-1e82.yorkbbs.workers.dev:8443': 1,
+        'lucky-cloud-1e82.yorkbbs.workers.dev:8080': 2,
       }
     },
     // 该节点用于加载大体积的静态资源
